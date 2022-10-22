@@ -24,7 +24,7 @@
 <a href="https://medium.com/@shreyasweb3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shreyasweb3" height="30" width="40" /></a>
 </p>
 
-<img align="left" alt="GitHub" height="35%" width="35%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="left" alt="GitHub" height="40%" width="40%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
