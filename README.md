@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working as **Senior Software Developer**
 
-- 🧠 Currently learning about advanced Data Structures & Algorithms. **advanced Data Structures & Algorithms.**
+- 🧠 Currently learning about advanced Data Structures & Algorithms.
 
 - 💼 I have a Bachelor's degree **in Computer Science**
 
