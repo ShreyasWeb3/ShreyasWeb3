@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas M B</h1>
-<h3 align="center">I am a Full Stack Web Developer. I love to write code.</h3>
+<h3 align="center">I am a Front End Web Developer. I love to write code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasweb3&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasweb3" /> </p>
 
