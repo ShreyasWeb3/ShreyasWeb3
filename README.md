@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyas M B</h1>
-<h3 align="center">I am a Front End Web Developer. I love to write code.</h3>
+<h3 align="center">I am a Front End Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasweb3&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasweb3" /> </p>
 
-- 👨‍💻 I’m currently working as **Senior Software Developer**
+- 👨‍💻 I’m currently working as **Senior Software Engineer**
 
 - 🧠 Currently learning about advanced Data Structures & Algorithms.
 
 - 💼 I have a Bachelor's degree **in Computer Science**
-
-- 📄 I have a in depth knowledge of **Blockchain and Cryptography.**
 
 - 💬 Ask me about **Javascript, React.**
 
